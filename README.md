@@ -3,6 +3,11 @@
 # About Me 🙋:
 My name is Soham Das just a guy who is passonated about datas and numbers.<br><br>🚀Fun Fact----<br>-Every day, humans create about 2.5 quintillion bytes of data! 🤯 That’s 2,500,000,000,000,000,000 bytes—enough to fill 10 million Blu-ray discs stacked as tall as Mount Everest… twice! 🏔️💿<br><br>And here’s the weird part—90% of the world’s data was generated in just the last two years! So if data had a baby book, it would basically be a toddler right now. 😆
 
+<div align="center">
+  # Contributions :
+  ![snake gif](https://github.com/Soham090/Soham-Das/blob/output/github-snake-dark.svg)
+  
+</div>
 
 # Socials 🌍:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soham-das-m8008m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunthesoham02@gmail.com) 
@@ -19,11 +24,7 @@ My name is Soham Das just a guy who is passonated about datas and numbers.<br><b
 
 ###  Top Contributed Repo ⬆️ 
 ![](https://github-contributor-stats.vercel.app/api?username=Soham090&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-<div align="center">
-  
-  ![snake gif](https://github.com/Soham090/Soham-Das/blob/output/github-snake-dark.svg)
-  
-</div>
+
 
 ---
 
