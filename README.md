@@ -19,8 +19,26 @@ Hi!!!👋. My name is Soham Das just a guy who is passonated about datas.<br><br
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soham090&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![snake gif](https://github.com/Soham090/Soham-Das/blob/output/github-snake-dark.svg)
+  
+</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Soham090&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
