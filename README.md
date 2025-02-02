@@ -21,10 +21,10 @@ My name is Soham Das just a guy who is passonated about datas and numbers.<br><b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soham090&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham090&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-##  GitHub Trophies 🏆 
+# GitHub Trophies 🏆: 
 ![](https://github-profile-trophy.vercel.app/?username=Soham090&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-###  Top Contributed Repo ⬆️ 
+# Top Contributed Repo ⬆️: 
 ![](https://github-contributor-stats.vercel.app/api?username=Soham090&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 
